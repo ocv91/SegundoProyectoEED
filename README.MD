@@ -22,3 +22,43 @@ TITULO 2
 - Formato __negrita__ de la segunda forma
 - Formato ~~tachado~~
 - Formato ~~***combinado***~~
+
+# 4. LISTAS
+
+## Listas ordenadas
+1. Item 1
+1. Item 2
+1. Item 3
+
+## Listas desordenadas
+- Item 1
+- Item 2
+- Item 3
+
+# 5. LINKS
+- <a href="http://www.google.com">Link</a>
+- [Link](http://www.google.com)
+- [Enlace a index.html](index.html)
+
+# 6. IMAGENES
+![LOGO] (aqui la url y se vera la imagen en preview)
+
+# 7. CODE SNIPPETS
+```java
+public class Deposito {    
+
+    //Campos de la clase
+    private float diametro;
+    private float altura;
+    private String idDeposito;
+
+    //Constructor sin parámetros auxiliar
+    public Deposito () { //Lo que hace es llamar al constructor con parámetros pasándole valores vacíos
+        this(0,0,"");            } //Cierre del constructor
+````
+
+```ruby
+def index
+    puts "hello world"
+end
+```
