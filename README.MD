@@ -69,3 +69,8 @@ end
 | Omar | CV | 1234567BA |
 | Pepito | Pérez | 99999999A |
 
+# CITAS
+Vamos a introducir una cita:
+>Cada día sabemos más y entendemos menos (Albert Einstein)
+
+Párrafo siguiente
