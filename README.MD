@@ -1,3 +1,6 @@
+# VERSIÓN 
+Versión actual: v1.2.2
+
 # 1. TITULOS
 # TITULO1
 ## TITULO2
