@@ -62,3 +62,10 @@ def index
     puts "hello world"
 end
 ```
+
+# TABLAS
+| NOMBRE | APELLIDO | DNI |
+| -- | -- | -- |
+| Omar | CV | 1234567BA |
+| Pepito | Pérez | 99999999A |
+
